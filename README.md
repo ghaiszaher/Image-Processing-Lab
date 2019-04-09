@@ -6,6 +6,8 @@ Contains the implementations of:
 * Edge Detection using Laplace Operator
 * Hough Lines using Cartesian line equation (y=mx+b)
 * Hough Lines using Polar coordinates (rho, theta)
+* N-Queens problem: Backtracking solution
+* Discrete Tomography: Reconstructing an image from its horizontal and vertical projections using a Backtracking algorithm
 
 ## Requirements
 * Python3
